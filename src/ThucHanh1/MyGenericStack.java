@@ -1,4 +1,4 @@
-package ThucHanh;
+package ThucHanh1;
 
 import java.util.EmptyStackException;
 import java.util.LinkedList;

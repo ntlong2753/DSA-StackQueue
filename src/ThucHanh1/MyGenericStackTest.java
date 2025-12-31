@@ -1,7 +1,7 @@
-package ThucHanh;
+package ThucHanh1;
 
-import static ThucHanh.MyGenericStack.stackOfIntegers;
-import static ThucHanh.MyGenericStack.stackOfStrings;
+import static ThucHanh1.MyGenericStack.stackOfIntegers;
+import static ThucHanh1.MyGenericStack.stackOfStrings;
 
 public class MyGenericStackTest {
     public static void main(String[] args) {
