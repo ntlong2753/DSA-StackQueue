@@ -1,4 +1,4 @@
-package DSAQueue;
+package DSA;
 
 import java.util.Scanner;
 import java.util.TreeMap;
