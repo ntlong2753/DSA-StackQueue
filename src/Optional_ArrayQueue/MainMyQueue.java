@@ -1,6 +1,6 @@
 package Optional_ArrayQueue;
 
-public class main {
+public class MainMyQueue {
     public static void main(String[] args) {
         MyQueue queue = new MyQueue(4);
         queue.enqueue(4);
